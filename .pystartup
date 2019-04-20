@@ -1,0 +1,6 @@
+#python start up
+#last modified 20/04/2019
+
+import os
+import numpy as np
+import math
